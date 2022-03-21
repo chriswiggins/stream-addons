@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Stream related Home Assistant add-on repository
-url: 'https://github.com/allenporter/stream-addons'
+name: CW DEV Stream related Home Assistant add-on repository
+url: 'https://github.com/chriswiggins/stream-addons'
 maintainer: Allen Porter <allen.porter@gmail.com>
