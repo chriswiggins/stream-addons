@@ -3,7 +3,7 @@ name: RTSPtoWeb - WebRTC
 version: "1.3.0"
 slug: rtsp-to-web
 description: RTSP Stream to WebBrowser over WebRTC and other protocols based on Pion
-url: "https://github.com/allenporter/stream-addons/tree/main/rtsp-to-web"
+url: "https://github.com/chriswiggins/stream-addons/tree/main/rtsp-to-web"
 panel_icon: mdi:webrtc
 webui: "http://[HOST]:[PORT:8083]"
 host_network: true
