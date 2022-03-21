@@ -30,4 +30,4 @@ schema:
   insecure_skip_verify: bool
   disable_google_stun: bool
 init: false
-image: "ghcr.io/allenporter/{arch}-rtsp-to-web"
+# image: "ghcr.io/allenporter/{arch}-rtsp-to-web"
